@@ -1,15 +1,17 @@
-================Vehicle Routing Problem=========================
+=======================
+Vehicle Routing Problem
+=======================
 
 The problem of finding the optimal path for delivery trucks is 
 analyzed and created solution. 
 
----> Number of trucks used : 6 (can be changed)
+---> Number of trucks used : 6 (can be changed)<br>
 ---> Delivery routes : 6 
 
 If the truck runs out of delivery items they return to the depot, 
 fill stocks and continue delivering to consumers.
 
-Execute the code == run.py
+Execute the code == run.py<br>
 check routing process == Vehicle_routing.py
 
 Source flow
