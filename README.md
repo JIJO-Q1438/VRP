@@ -1,6 +1,4 @@
-===============================================================
-                Vehicle Routing Problem
-===============================================================
+================Vehicle Routing Problem=========================
 
 The problem of finding the optimal path for delivery trucks is 
 analyzed and created solution. 
